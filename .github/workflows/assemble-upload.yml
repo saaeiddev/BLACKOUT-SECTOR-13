@@ -1,0 +1,35 @@
+name: Verify and assemble original release upload
+on:
+  push:
+    branches: [main]
+    paths: ['_upload/**', '.github/workflows/assemble-upload.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: blackout-release-upload
+  cancel-in-progress: false
+jobs:
+  assemble:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - name: Check out this repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Assemble and verify all original files
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ ! -f _upload/manifest.json ]; then
+            echo 'No pending upload. Release files are in downloads/1.0.0.'
+            exit 0
+          fi
+          python3 _upload/assemble.py
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A -- _upload downloads/1.0.0 game docs
+          git commit -m 'Publish complete source, verified Windows installer and portable game 1.0.0'
+          git push origin HEAD:main

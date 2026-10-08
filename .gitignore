@@ -1,0 +1,9 @@
+.godot/
+__pycache__/
+*.pyc
+.DS_Store
+/tools/
+/logs/
+/artifacts/
+.env
+.env.*

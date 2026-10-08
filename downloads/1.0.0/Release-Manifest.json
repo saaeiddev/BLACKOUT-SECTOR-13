@@ -1,0 +1,95 @@
+{
+  "project": "BLACKOUT: SECTOR 13",
+  "version": "1.0.0",
+  "creator": "Created by Amir Saeid Dehghan",
+  "engine": "4.5.1.stable.official.f62fdbde1",
+  "installer": "NSIS 3.09 Unicode",
+  "runtime": "Windows AMD64; unsigned",
+  "test_environment": "Ubuntu 24.04.3 LTS, Xvfb, Mesa llvmpipe",
+  "automated_checks": {
+    "graphical_smoke_pass": 26,
+    "cross_process_save_pass": 3,
+    "whole_campaign_pass": 2,
+    "fail": 0
+  },
+  "unverified": [
+    "Windows 11 install, runtime, shortcuts, uninstall, reinstall",
+    "RTX 4060 laptop 1080p stable 60 FPS",
+    "15–25 minute first-human campaign duration",
+    "physical audio output and physical Windows Alt-Tab"
+  ],
+  "files": [
+    {
+      "file": "BlackoutSector13-Setup-1.0.0.exe",
+      "bytes": 25291013,
+      "sha256": "36f3dc32d304bc25eeab948724eed84ed30d2035dadad0d679ec5f4bde578a60"
+    },
+    {
+      "file": "BlackoutSector13-Windows-x64-Portable-1.0.0.zip",
+      "bytes": 34916332,
+      "sha256": "ca74ebf6812b34ccadd820c7ebcd8cd43dbb509097ae2aed67e48388fd1c5771"
+    },
+    {
+      "file": "BlackoutSector13-QA-Evidence-1.0.0.zip",
+      "bytes": 3979390,
+      "sha256": "427de92fcbdc55773cca56c99417da3463a0b66ae025b57c4d20d7da6ff3cb0e"
+    },
+    {
+      "file": "BlackoutSector13-Source-1.0.0.zip",
+      "bytes": 2792147,
+      "sha256": "cc3b7e636c77084bae47d5e9b58ee40549749edf0f8372e1e8ac43805948a408"
+    },
+    {
+      "file": "Player-Guide-FA.html",
+      "bytes": 4864,
+      "sha256": "35bc3833768f337f9a2db610b4fb0b91e9559bc8dd3d61e0aebc33375455b7ec"
+    },
+    {
+      "file": "QA-Report.md",
+      "bytes": 8432,
+      "sha256": "a549d5d1878869c159ff5e1e4b6cac718f630d53447171df45b86f2ae8333941"
+    },
+    {
+      "file": "BlackoutSector13-Gameplay.png",
+      "bytes": 776795,
+      "sha256": "0e8e2da13890f935309471865e4c38e8c64862735b8e2701150ca9424c73c403"
+    }
+  ],
+  "payload": [
+    {
+      "file": "BlackoutSector13.exe",
+      "bytes": 96725504,
+      "sha256": "8b5a9b7a8ef1bad226927c1e7a464776865f4ca259157d3ebea77e5d178a5266",
+      "installer_matches": true,
+      "portable_matches": true
+    },
+    {
+      "file": "BlackoutSector13.pck",
+      "bytes": 1170496,
+      "sha256": "b2e887e2503e2f298b3dab7590877c522353eff81546aac20b4d782d7a51ae6b",
+      "installer_matches": true,
+      "portable_matches": true
+    },
+    {
+      "file": "Player-Guide-FA.html",
+      "bytes": 4864,
+      "sha256": "35bc3833768f337f9a2db610b4fb0b91e9559bc8dd3d61e0aebc33375455b7ec",
+      "installer_matches": true,
+      "portable_matches": true
+    },
+    {
+      "file": "QA-Report.md",
+      "bytes": 8432,
+      "sha256": "a549d5d1878869c159ff5e1e4b6cac718f630d53447171df45b86f2ae8333941",
+      "installer_matches": true,
+      "portable_matches": true
+    },
+    {
+      "file": "THIRD-PARTY-NOTICES.txt",
+      "bytes": 119907,
+      "sha256": "8c11e934d5e2bc73148950d973d2ced7fdf50ffdbb7d957424498fcd45a07ac8",
+      "installer_matches": true,
+      "portable_matches": true
+    }
+  ]
+}

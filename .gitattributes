@@ -1,0 +1,10 @@
+* text=auto
+*.gd text eol=lf
+*.py text eol=lf
+*.exe binary
+*.zip binary
+*.pck binary
+*.wav binary
+*.png binary
+*.ico binary
+*.part* binary

@@ -1,0 +1,54 @@
+{
+  "version": "1.0.0",
+  "outputs": [
+    {
+      "path": "downloads/1.0.0/BlackoutSector13-Setup-1.0.0.exe",
+      "bytes": 25291013,
+      "sha256": "36f3dc32d304bc25eeab948724eed84ed30d2035dadad0d679ec5f4bde578a60",
+      "parts": [
+        {
+          "path": "_upload/BlackoutSector13-Setup-1.0.0.exe.part001",
+          "bytes": 10485760,
+          "sha256": "72b31cc6b9ca6963e9cddcfd1187f4060867775a5e01530c155d073ef59f06af"
+        },
+        {
+          "path": "_upload/BlackoutSector13-Setup-1.0.0.exe.part002",
+          "bytes": 10485760,
+          "sha256": "4628d5119afcfaa23669cb4a0477f81ed211f5f5dc0d30e6a9ca1df9b3c80de2"
+        },
+        {
+          "path": "_upload/BlackoutSector13-Setup-1.0.0.exe.part003",
+          "bytes": 4319493,
+          "sha256": "3d817c397fa51a2b33f90783391c305c7dfecfc8f0258c16a0679250ba3caf9c"
+        }
+      ]
+    },
+    {
+      "path": "downloads/1.0.0/BlackoutSector13-Windows-x64-Portable-1.0.0.zip",
+      "bytes": 34916332,
+      "sha256": "ca74ebf6812b34ccadd820c7ebcd8cd43dbb509097ae2aed67e48388fd1c5771",
+      "parts": [
+        {
+          "path": "_upload/BlackoutSector13-Windows-x64-Portable-1.0.0.zip.part001",
+          "bytes": 10485760,
+          "sha256": "25ff74b4caac7153acd80551ed5c55e04298e975aabdf52eacc25f55c1a716a4"
+        },
+        {
+          "path": "_upload/BlackoutSector13-Windows-x64-Portable-1.0.0.zip.part002",
+          "bytes": 10485760,
+          "sha256": "962d7c7c4fa9c0ae520f012e537dc0943cfb8c7c2d390817768985896fb9a3d8"
+        },
+        {
+          "path": "_upload/BlackoutSector13-Windows-x64-Portable-1.0.0.zip.part003",
+          "bytes": 10485760,
+          "sha256": "b5fb783bd384904ff4e052401e70591cf2c0553daf432aa468fa3d2265e3cc4a"
+        },
+        {
+          "path": "_upload/BlackoutSector13-Windows-x64-Portable-1.0.0.zip.part004",
+          "bytes": 3459052,
+          "sha256": "e9dc34edca69a4a894e01c1a69e8cf202c86596443076abd803d183dfbaaffb8"
+        }
+      ]
+    }
+  ]
+}
