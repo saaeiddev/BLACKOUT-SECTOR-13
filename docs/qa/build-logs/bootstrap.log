@@ -1,0 +1,30 @@
+Downloading SHA512-SUMS.txt
+Downloading main-Packages.xz
+Downloading universe-Packages.xz
+Downloading Godot_v4.5.1-stable_linux.x86_64.zip
+Downloading Godot_v4.5.1-stable_export_templates.tpz
+Downloading nsis_3.09-4ubuntu1_amd64.deb
+Extracted package nsis 3.09-4ubuntu1
+Downloading nsis-common_3.09-4ubuntu1_all.deb
+Verified SHA512 Godot_v4.5.1-stable_linux.x86_64.zip
+Extracted package nsis-common 3.09-4ubuntu1
+Downloading xvfb_21.1.12-1ubuntu1_amd64.deb
+Extracted package xvfb 2:21.1.12-1ubuntu1
+Downloading xauth_1.1.2-1build1_amd64.deb
+Extracted package xauth 1:1.1.2-1build1
+Downloading xserver-common_21.1.12-1ubuntu1_all.deb
+Extracted package xserver-common 2:21.1.12-1ubuntu1
+Downloading libxfont2_2.0.6-1build1_amd64.deb
+Extracted package libxfont2 1:2.0.6-1build1
+Downloading x11-xkb-utils_7.7+8build2_amd64.deb
+Verified SHA512 Godot_v4.5.1-stable_export_templates.tpz
+Extracted linux_release.x86_64
+Extracted version.txt
+Extracted windows_release_x86_64_console.exe
+Extracted windows_release_x86_64.exe
+Extracted package x11-xkb-utils 7.7+8build2
+Downloading libxkbfile1_1.1.0-1build4_amd64.deb
+Extracted package libxkbfile1 1:1.1.0-1build4
+Downloading 7zip_23.01+dfsg-11_amd64.deb
+Extracted package 7zip 23.01+dfsg-11
+BOOTSTRAP COMPLETE

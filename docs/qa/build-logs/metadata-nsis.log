@@ -1,0 +1,15 @@
+Processing script file: "game/build/metadata.nsi" (UTF8)
+
+Processed 1 file, writing output (x86-unicode):
+
+Output: "../../tools/game-metadata.exe"
+Install: 1 page (64 bytes), 1 section (1 required) (4120 bytes), 1 instruction (28 bytes), 22 strings (566 bytes), 1 language table (194 bytes).
+
+Using zlib compression.
+
+EXE header size:              111616 / 100352 bytes
+Install code:                    474 / 3316 bytes
+Install data:                      0 / 0 bytes
+CRC (0x9DC65A6E):                  4 / 4 bytes
+
+Total size:                   112094 / 103672 bytes (108.1%)

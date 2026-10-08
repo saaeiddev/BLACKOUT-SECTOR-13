@@ -1,0 +1,14 @@
+{
+	"build": "1.0.0",
+	"checks": [
+		{
+			"detail": "Simulation seconds: 388.5; killed=48",
+			"status": "PASS",
+			"test": "Whole campaign through actual movement, interactions and weapon rays"
+		}
+	],
+	"failures": 0,
+	"mode": "--qa-campaign-easy",
+	"platform": "Linux",
+	"renderer": ""
+}

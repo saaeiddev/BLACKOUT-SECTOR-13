@@ -1,0 +1,79 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started Project initialization (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Scanning file structure...[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | Loading global class names...[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | Verifying GDExtensions...[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | Creating autoload scripts...[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | Initializing plugins...[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | Starting file scan...[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+[   0% ] [90m[1msavepack[22m | Started Packing (102 steps)[39m[0m
+[   1% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/alarm.wav-2a8fd0998cff7f0838a049073b8986b1.sample[39m[0m
+[   1% ] [90m[1msavepack[22m | Storing File: res://assets/audio/alarm.wav.import[39m[0m
+[   4% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/attack.wav-825b62c1f9509f7d19a957a51a526957.sample[39m[0m
+[   4% ] [90m[1msavepack[22m | Storing File: res://assets/audio/attack.wav.import[39m[0m
+[   7% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/death.wav-021a45cab225299ddf24ec88f548f45a.sample[39m[0m
+[   7% ] [90m[1msavepack[22m | Storing File: res://assets/audio/death.wav.import[39m[0m
+[  10% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/door.wav-44917a986749810eab0efbb8873b8ccb.sample[39m[0m
+[  10% ] [90m[1msavepack[22m | Storing File: res://assets/audio/door.wav.import[39m[0m
+[  13% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/empty.wav-ebf1630805aebc8569e199dd93ecf706.sample[39m[0m
+[  13% ] [90m[1msavepack[22m | Storing File: res://assets/audio/empty.wav.import[39m[0m
+[  17% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/growl.wav-c2ced0f8d0fd7fabae49cb2cb784b7a1.sample[39m[0m
+[  17% ] [90m[1msavepack[22m | Storing File: res://assets/audio/growl.wav.import[39m[0m
+[  20% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/hit.wav-96dc477cdf4a42f381370dba6e3f75ce.sample[39m[0m
+[  20% ] [90m[1msavepack[22m | Storing File: res://assets/audio/hit.wav.import[39m[0m
+[  23% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/hum.wav-3e8cb3ba3785f99343e3a053b39d59c0.sample[39m[0m
+[  23% ] [90m[1msavepack[22m | Storing File: res://assets/audio/hum.wav.import[39m[0m
+[  26% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/music.wav-2937b162566447d772a8d6d8478cb5b0.sample[39m[0m
+[  26% ] [90m[1msavepack[22m | Storing File: res://assets/audio/music.wav.import[39m[0m
+[  30% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/pickup.wav-005c0482069dd16ebcd4cedd7f327134.sample[39m[0m
+[  30% ] [90m[1msavepack[22m | Storing File: res://assets/audio/pickup.wav.import[39m[0m
+[  33% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/pistol.wav-ca66a085d3a5bea19f18b80619391498.sample[39m[0m
+[  33% ] [90m[1msavepack[22m | Storing File: res://assets/audio/pistol.wav.import[39m[0m
+[  35% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/reload.wav-50f2d65be979b5afe34a1e31b08f63e8.sample[39m[0m
+[  35% ] [90m[1msavepack[22m | Storing File: res://assets/audio/reload.wav.import[39m[0m
+[  38% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/shotgun.wav-63c0fa10013ddd0169a67c8c51a04495.sample[39m[0m
+[  38% ] [90m[1msavepack[22m | Storing File: res://assets/audio/shotgun.wav.import[39m[0m
+[  41% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/step.wav-7c1afa4d3561f9fd67ecf320728c68cf.sample[39m[0m
+[  41% ] [90m[1msavepack[22m | Storing File: res://assets/audio/step.wav.import[39m[0m
+[  45% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/terminal.wav-272fdec8a49705fe23b2ce79b62be335.sample[39m[0m
+[  45% ] [90m[1msavepack[22m | Storing File: res://assets/audio/terminal.wav.import[39m[0m
+[  48% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/concrete.png-8a358c51f81529195a3aed05934b1218.ctex[39m[0m
+[  48% ] [90m[1msavepack[22m | Storing File: res://assets/textures/concrete.png.import[39m[0m
+[  51% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/flesh.png-60599fc01e5411f8af4b9044e63d05c4.ctex[39m[0m
+[  51% ] [90m[1msavepack[22m | Storing File: res://assets/textures/flesh.png.import[39m[0m
+[  54% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/floor.png-bc19f2b688ab458014752317127027f7.ctex[39m[0m
+[  54% ] [90m[1msavepack[22m | Storing File: res://assets/textures/floor.png.import[39m[0m
+[  58% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/glove.png-98f8a19cdeb0e4226306f28e29e42d5a.ctex[39m[0m
+[  58% ] [90m[1msavepack[22m | Storing File: res://assets/textures/glove.png.import[39m[0m
+[  61% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/metal.png-a72f9c7f956f4d02b133075ae81d5989.ctex[39m[0m
+[  61% ] [90m[1msavepack[22m | Storing File: res://assets/textures/metal.png.import[39m[0m
+[  64% ] [90m[1msavepack[22m | Storing File: res://assets/ui/icon.ico[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/icon.png-b2186b5b4a56bd57079f80a9dcb82304.ctex[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://assets/ui/icon.png.import[39m[0m
+[  69% ] [90m[1msavepack[22m | Storing File: res://scripts/Art.gdc[39m[0m
+[  73% ] [90m[1msavepack[22m | Storing File: res://scripts/Enemy.gdc[39m[0m
+[  76% ] [90m[1msavepack[22m | Storing File: res://scripts/Game.gdc[39m[0m
+[  79% ] [90m[1msavepack[22m | Storing File: res://scripts/Player.gdc[39m[0m
+[  82% ] [90m[1msavepack[22m | Storing File: res://scripts/QA.gdc[39m[0m
+[  86% ] [90m[1msavepack[22m | Storing File: res://scripts/Services.gdc[39m[0m
+[  89% ] [90m[1msavepack[22m | Storing File: res://scripts/UI.gdc[39m[0m
+[  92% ] [90m[1msavepack[22m | Storing File: res://scripts/World.gdc[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-bcb0d2eb5949c52b6a65bfe9de3e985b-Main.scn[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/Art.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/Enemy.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/Game.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/Player.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/QA.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/Services.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/UI.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/World.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://Main.tscn.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://.godot/global_script_class_cache.cfg[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://assets/ui/icon.png[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://.godot/uid_cache.bin[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://project.binary[39m[0m
+[92m[ DONE ][39m [1msavepack[22m
+[0m

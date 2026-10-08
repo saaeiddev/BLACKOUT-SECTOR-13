@@ -1,0 +1,22 @@
+{
+  "scope": "GitHub delivery verification only; not Windows execution",
+  "version": "1.0.0",
+  "files": [
+    {
+      "file": "BlackoutSector13-Setup-1.0.0.exe",
+      "bytes": 25291013,
+      "sha256": "36f3dc32d304bc25eeab948724eed84ed30d2035dadad0d679ec5f4bde578a60",
+      "result": "PASS"
+    },
+    {
+      "file": "BlackoutSector13-Windows-x64-Portable-1.0.0.zip",
+      "bytes": 34916332,
+      "sha256": "ca74ebf6812b34ccadd820c7ebcd8cd43dbb509097ae2aed67e48388fd1c5771",
+      "result": "PASS"
+    }
+  ],
+  "all_eight_release_checksums": "PASS",
+  "portable_crc_and_payload_hashes": "PASS",
+  "game_pe_architecture": "AMD64",
+  "windows_gameplay": "NOT TESTED"
+}

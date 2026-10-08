@@ -1,0 +1,23 @@
+
+7-Zip 23.01 (x64) : Copyright (c) 1999-2023 Igor Pavlov : 2023-06-20
+ 64-bit locale=C.UTF-8 Threads:9 OPEN_MAX:16384
+
+Scanning the drive for archives:
+1 file, 25291013 bytes (25 MiB)
+
+Extracting archive: /workspace/scratch/0a2b8724ba7c/artifacts/BlackoutSector13-Setup-1.0.0.exe
+--
+Path = /workspace/scratch/0a2b8724ba7c/artifacts/BlackoutSector13-Setup-1.0.0.exe
+Type = Nsis
+Physical Size = 25291013
+Method = LZMA:25
+Solid = +
+Headers Size = 26420
+Embedded Stub Size = 115712
+SubType = NSIS-3 Unicode
+
+Everything is Ok
+
+Files: 9
+Size:       98216364
+Compressed: 25291013

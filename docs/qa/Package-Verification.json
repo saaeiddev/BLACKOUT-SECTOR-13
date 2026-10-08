@@ -1,0 +1,45 @@
+{
+  "version": "1.0.0",
+  "runtime_architecture": "PE32+ AMD64",
+  "installer_architecture": "NSIS x86 Unicode, installs x64 runtime",
+  "unsigned": true,
+  "installer_compilation_warnings": 0,
+  "payload": [
+    {
+      "file": "BlackoutSector13.exe",
+      "bytes": 96725504,
+      "sha256": "8b5a9b7a8ef1bad226927c1e7a464776865f4ca259157d3ebea77e5d178a5266",
+      "installer_matches": true,
+      "portable_matches": true
+    },
+    {
+      "file": "BlackoutSector13.pck",
+      "bytes": 1170496,
+      "sha256": "b2e887e2503e2f298b3dab7590877c522353eff81546aac20b4d782d7a51ae6b",
+      "installer_matches": true,
+      "portable_matches": true
+    },
+    {
+      "file": "Player-Guide-FA.html",
+      "bytes": 4864,
+      "sha256": "35bc3833768f337f9a2db610b4fb0b91e9559bc8dd3d61e0aebc33375455b7ec",
+      "installer_matches": true,
+      "portable_matches": true
+    },
+    {
+      "file": "QA-Report.md",
+      "bytes": 8432,
+      "sha256": "a549d5d1878869c159ff5e1e4b6cac718f630d53447171df45b86f2ae8333941",
+      "installer_matches": true,
+      "portable_matches": true
+    },
+    {
+      "file": "THIRD-PARTY-NOTICES.txt",
+      "bytes": 119907,
+      "sha256": "8c11e934d5e2bc73148950d973d2ced7fdf50ffdbb7d957424498fcd45a07ac8",
+      "installer_matches": true,
+      "portable_matches": true
+    }
+  ],
+  "windows_execution": "NOT TESTED"
+}

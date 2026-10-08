@@ -1,0 +1,24 @@
+{
+	"build": "1.0.0",
+	"checks": [
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Valid checkpoint after process restart"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Process restart restores mission, equipment, defeated actors"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Door lock restored"
+		}
+	],
+	"failures": 0,
+	"mode": "--qa-reload",
+	"platform": "Linux",
+	"renderer": ""
+}

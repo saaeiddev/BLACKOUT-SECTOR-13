@@ -1,0 +1,8 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+BLACKOUT_READY 1.0.0 | Linux | 4.5.1-stable (official)
+QA PASS Valid checkpoint after process restart 
+CAMPAIGN_START stage=1 difficulty=Normal
+QA PASS Process restart restores mission, equipment, defeated actors 
+QA PASS Door lock restored 
+QA_FINISHED --qa-reload failures=0

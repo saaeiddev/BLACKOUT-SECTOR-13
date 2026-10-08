@@ -1,0 +1,139 @@
+{
+	"build": "1.0.0",
+	"checks": [
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Main menu created"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Settings four-tab interface"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Credits open"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "New Game confirms overwrite"
+		},
+		{
+			"detail": "(0.0, 0.000839, 4.591946)",
+			"status": "PASS",
+			"test": "WASD movement and grounded collision"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Crouch height"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Stand clearance"
+		},
+		{
+			"detail": "kit",
+			"status": "PASS",
+			"test": "Equipment interaction ray"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Equipment objective and flashlight"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Pistol ray damage and death"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Reload conservation and duplicate rejection"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Shotgun pellets and shell consumption"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Reload canceled on weapon switch"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Enemy attack has a visible wind-up"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Enemy damage follows wind-up"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Solid wall blocks shots"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Medkit consumption"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Pause releases mouse"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Resume captures mouse"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Focus-loss handler pauses safely"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Settings written"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Key rebinding"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Checkpoint serializes equipment and defeated actors"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Corrupt save handled"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Death and restart screen"
+		},
+		{
+			"detail": "",
+			"status": "PASS",
+			"test": "Checkpoint restart"
+		}
+	],
+	"failures": 0,
+	"mode": "--qa-smoke",
+	"platform": "Linux",
+	"renderer": "llvmpipe (LLVM 20.1.2, 256 bits)"
+}

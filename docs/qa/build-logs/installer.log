@@ -1,0 +1,19 @@
+Processing script file: "/workspace/scratch/0a2b8724ba7c/game/build/installer.nsi" (UTF8)
+
+Processed 1 file, writing output (x86-unicode):
+
+Output: "../../artifacts/BlackoutSector13-Setup-1.0.0.exe"
+Install: 5 pages (320 bytes), 2 sections (1 required) (8240 bytes), 458 instructions (12824 bytes), 231 strings (8370 bytes), 1 language table (326 bytes).
+Uninstall: 2 pages (192 bytes), 1 section (4120 bytes), 62 instructions (1736 bytes), 108 strings (3180 bytes), 1 language table (250 bytes).
+Datablock optimizer saved 26498 bytes (~0.0%).
+
+Using lzma (compress whole) compression.
+
+EXE header size:              115712 / 100864 bytes
+Install code:                          (26448 bytes)
+Install data:                          (98099249 bytes)
+Uninstall code+data:                   (20772 bytes)
+Compressed data:            25175297 / 98146469 bytes
+CRC (0x12B88C5B):                  4 / 4 bytes
+
+Total size:                 25291013 / 98247337 bytes (25.7%)

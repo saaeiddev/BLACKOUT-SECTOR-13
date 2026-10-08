@@ -1,0 +1,72 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+BLACKOUT_READY 1.0.0 | Linux | 4.5.1-stable (official)
+CHECKPOINT 0 true
+CAMPAIGN_START stage=0 difficulty=Normal
+BOT_STAGE 0 t=0.01666666666667 position=(0.0, 0.05, 9.0)
+CHECKPOINT 1 true
+MISSION_STAGE 1 02  /  Restore auxiliary power  •  Feeders 0/2
+BOT_STAGE 1 t=4.18333333333332 position=(-0.999099, 0.000839, -6.156396)
+BOT_PROGRESS stage=1 t=10.0000000000001 position=(-2.99998, 0.000831, -23.11438) health=100.0 ammo=[5, 6] reserve=[48, 18] target=feeder_a
+BOT_PROGRESS stage=1 t=20.0000000000001 position=(-28.16083, 0.000756, -29.20004) health=100.0 ammo=[5, 6] reserve=[36, 18] target=feeder_a
+BOT_PROGRESS stage=1 t=29.9999999999996 position=(-37.13388, 0.000839, -2.871319) health=100.0 ammo=[12, 6] reserve=[25, 18] target=feeder_a
+BOT_PROGRESS stage=1 t=39.999999999999 position=(-71.22026, 0.000833, 2.952674) health=100.0 ammo=[7, 6] reserve=[61, 30] target=feeder_a
+BOT_PROGRESS stage=1 t=49.9999999999984 position=(-104.1088, 0.000936, 3.0) health=100.0 ammo=[9, 6] reserve=[50, 30] target=feeder_a
+BOT_PROGRESS stage=1 t=59.9999999999979 position=(-140.2401, 0.000936, 3.0) health=100.0 ammo=[4, 6] reserve=[50, 30] target=feeder_a
+BOT_PROGRESS stage=1 t=69.9999999999973 position=(-122.429, 0.000834, 4.999998) health=100.0 ammo=[4, 6] reserve=[50, 30] target=feeder_b
+BOT_PROGRESS stage=1 t=79.9999999999967 position=(-83.42974, 0.000728, 5.0) health=100.0 ammo=[4, 6] reserve=[50, 30] target=feeder_b
+BOT_PROGRESS stage=1 t=89.9999999999962 position=(-44.69385, 0.000839, 4.309318) health=100.0 ammo=[4, 6] reserve=[50, 30] target=feeder_b
+BOT_PROGRESS stage=1 t=99.9999999999956 position=(-30.99678, 0.000839, -24.35976) health=100.0 ammo=[4, 6] reserve=[50, 30] target=feeder_b
+BOT_PROGRESS stage=1 t=109.999999999995 position=(-0.368039, 0.000769, -37.63282) health=100.0 ammo=[4, 6] reserve=[50, 30] target=feeder_b
+BOT_PROGRESS stage=1 t=119.999999999994 position=(31.93216, 0.000827, -42.99998) health=100.0 ammo=[9, 6] reserve=[39, 30] target=feeder_b
+BOT_PROGRESS stage=1 t=129.999999999996 position=(69.22149, 0.000839, -44.99998) health=100.0 ammo=[7, 6] reserve=[75, 42] target=feeder_b
+BOT_PROGRESS stage=1 t=140.000000000004 position=(96.21248, 0.000839, -33.07865) health=100.0 ammo=[12, 6] reserve=[65, 42] target=generator
+BOT_PROGRESS stage=1 t=150.000000000012 position=(60.98355, 0.000827, -42.99998) health=100.0 ammo=[12, 6] reserve=[65, 42] target=generator
+BOT_PROGRESS stage=1 t=160.000000000019 position=(21.9864, 0.000828, -42.99998) health=100.0 ammo=[12, 6] reserve=[65, 42] target=generator
+BOT_PROGRESS stage=1 t=170.000000000027 position=(-9.256102, 0.000827, -35.00196) health=100.0 ammo=[12, 6] reserve=[101, 54] target=generator
+CHECKPOINT 2 true
+MISSION_STAGE 2 03  /  Retrieve the security keycard
+BOT_STAGE 2 t=176.600000000033 position=(-32.41973, 0.000839, -27.49006)
+BOT_PROGRESS stage=2 t=180.000000000035 position=(-20.43348, 0.000833, -28.99981) health=100.0 ammo=[12, 6] reserve=[101, 54] target=keycard
+BOT_PROGRESS stage=2 t=190.000000000043 position=(13.20216, 0.000839, -21.17635) health=100.0 ammo=[12, 6] reserve=[101, 54] target=keycard
+CHECKPOINT 3 true
+MISSION_STAGE 3 04  /  Unlock the laboratory
+BOT_STAGE 3 t=190.56666666671 position=(15.10427, 0.000839, -21.52212)
+BOT_PROGRESS stage=3 t=200.000000000051 position=(3.000015, 0.000827, -45.69125) health=100.0 ammo=[12, 6] reserve=[137, 66] target=lab
+CHECKPOINT 4 true
+MISSION_STAGE 4 05  /  Acquire the pump shotgun
+BOT_STAGE 4 t=202.250000000053 position=(1.286685, 0.000839, -53.91989)
+BOT_PROGRESS stage=4 t=210.000000000059 position=(-4.020711, 0.000839, -73.85364) health=100.0 ammo=[12, 6] reserve=[126, 66] target=shotgun
+CHECKPOINT 5 true
+MISSION_STAGE 5 06  /  Start the containment purge
+BOT_STAGE 5 t=214.633333333396 position=(-13.414, 0.000839, -86.95585)
+BOT_PROGRESS stage=5 t=220.000000000067 position=(2.745916, 0.000839, -83.58559) health=100.0 ammo=[10, 6] reserve=[126, 66] target=lockdown
+BOT_PROGRESS stage=5 t=230.000000000075 position=(33.65035, 0.000834, -77.054) health=100.0 ammo=[2, 6] reserve=[126, 66] target=lockdown
+CHECKPOINT 5 true
+MISSION_STAGE 6 07  /  Survive containment lockdown
+BOT_STAGE 6 t=239.050000000082 position=(59.09983, 0.000839, -64.61724)
+BOT_PROGRESS stage=6 t=240.000000000083 position=(59.02486, 0.000845, -67.57217) health=100.0 ammo=[8, 6] reserve=[151, 78] target=arena
+BOT_PROGRESS stage=6 t=250.000000000091 position=(55.09034, 0.000687, -78.55944) health=100.0 ammo=[12, 5] reserve=[139, 78] target=arena
+BOT_PROGRESS stage=6 t=260.000000000092 position=(55.09034, 0.000687, -78.55944) health=100.0 ammo=[12, 5] reserve=[127, 78] target=arena
+BOT_PROGRESS stage=6 t=270.000000000083 position=(55.09034, 0.000687, -78.55944) health=100.0 ammo=[12, 5] reserve=[116, 78] target=arena
+BOT_PROGRESS stage=6 t=280.000000000074 position=(55.09034, 0.000687, -78.55944) health=100.0 ammo=[12, 5] reserve=[116, 78] target=arena
+BOT_PROGRESS stage=6 t=290.000000000065 position=(55.09034, 0.000687, -78.55944) health=100.0 ammo=[12, 5] reserve=[116, 78] target=arena
+BOT_PROGRESS stage=6 t=300.000000000056 position=(55.09034, 0.000687, -78.55944) health=100.0 ammo=[12, 5] reserve=[116, 78] target=arena
+CHECKPOINT 7 true
+MISSION_STAGE 7 08  /  Stop the breach  •  Regulators 0/3
+BOT_STAGE 7 t=304.050000000052 position=(55.09034, 0.000687, -78.55944)
+BOT_PROGRESS stage=7 t=310.000000000047 position=(51.13111, 0.000936, -99.97027) health=100.0 ammo=[12, 5] reserve=[116, 78] target=regulator_a
+BOT_PROGRESS stage=7 t=320.000000000038 position=(43.02755, 0.00084, -128.6434) health=100.0 ammo=[8, 4] reserve=[116, 78] target=regulator_a
+BOT_PROGRESS stage=7 t=330.000000000029 position=(48.76437, 0.000839, -132.5044) health=100.0 ammo=[7, 4] reserve=[140, 90] target=regulator_b
+BOT_PROGRESS stage=7 t=340.000000000019 position=(48.76437, 0.000839, -132.5044) health=100.0 ammo=[2, 4] reserve=[116, 90] target=regulator_b
+BOT_PROGRESS stage=7 t=350.00000000001 position=(69.4073, 0.000839, -155.3664) health=100.0 ammo=[9, 4] reserve=[104, 90] target=regulator_b
+BOT_PROGRESS stage=7 t=360.000000000001 position=(42.06233, 0.000839, -164.1002) health=100.0 ammo=[9, 4] reserve=[104, 90] target=regulator_c
+CHECKPOINT 8 true
+MISSION_STAGE 8 09  /  Escape through evacuation lift 13
+BOT_STAGE 8 t=360.350000000001 position=(40.91831, 0.000839, -164.7762)
+BOT_PROGRESS stage=8 t=369.999999999992 position=(71.81823, 0.000839, -154.8965) health=100.0 ammo=[9, 4] reserve=[104, 90] target=lift
+BOT_PROGRESS stage=8 t=379.999999999983 position=(104.82, 0.136637, -154.9516) health=100.0 ammo=[4, 4] reserve=[104, 90] target=lift
+BOT_STAGE 9 t=381.083333333315 position=(108.4406, 0.140822, -156.5199)
+CAMPAIGN_END elapsed=388.083333333309
+QA PASS Whole campaign through actual movement, interactions and weapon rays Simulation seconds: 388.1; killed=48
+QA_FINISHED --qa-campaign failures=0
